@@ -17,9 +17,3 @@ This project investigates the vulnerability of **YOLOv11m** "out-of-the-box" to 
 - **Class Asymmetry:** Discovered that pedestrians are significantly more vulnerable than heterogeneous vehicles.
 - **Video-Level Analysis (LES/ER):** Shifted evaluation from frame-by-frame (SR) to continuous tracking disruption, proving tracking systems drop objects completely.
 
-## Important Links & Materials
-
-Here you can find all the materials related to this thesis:
-
-* **[Full Thesis Text (PDF)](https://drive.google.com/drive/folders/1jO3SHG_Z5sQjeYv8jblvqMUmiTZagKqs?usp=sharing)**
-* **[CCTV Dataset & Annotations (.zip)](https://drive.google.com/drive/folders/1jO3SHG_Z5sQjeYv8jblvqMUmiTZagKqs?usp=sharing)**
