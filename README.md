@@ -20,6 +20,6 @@ This project investigates the vulnerability of **YOLOv11m** "out-of-the-box" to 
 ## Materials & Links
 The full dataset is kept private due to ongoing research. For code reproducibility, a **10-second annotated sample (images + annotations)** is provided.
 
-* 📖 **[Full Thesis Text (PDF)]((https://drive.google.com/drive/folders/19Itg9Mv-vxLJCWHg_AJlUryhWVrMBfAI?usp=sharing))**
+* 📖 **[Full Thesis Text (PDF)](https://drive.google.com/drive/folders/19Itg9Mv-vxLJCWHg_AJlUryhWVrMBfAI?usp=sharing)**
 * 📥 **[10-second Sample Dataset (.zip)](https://drive.google.com/drive/folders/19Itg9Mv-vxLJCWHg_AJlUryhWVrMBfAI?usp=sharing)**
 
